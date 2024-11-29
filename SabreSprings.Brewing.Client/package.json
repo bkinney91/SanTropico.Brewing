@@ -20,7 +20,7 @@
     "@microsoft/signalr": "^3.1.16",
     "assert": "^2.0.0",
     "asserts": "^4.0.2",
-    "axios": "0.21.1",
+    "axios": "0.21.2",
     "core-js": "2.6.5",
     "devextreme": "19.2.6",
     "devextreme-aspnet-data-nojquery": "^2.8.5",
